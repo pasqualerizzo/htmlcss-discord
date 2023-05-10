@@ -123,6 +123,13 @@ header div .row {
    color: black;
    padding-right: 5px;
 }
+
+.bottoni-centrati {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
 /* fine primo layout */
 
 
@@ -201,6 +208,13 @@ header div .row {
     color: black;
     font-size: 0.8em;
 }
+
+.wave {
+    background-image: url(../img/wave.svg);
+    color: #d3d3d3;
+    
+}
+
 /* fine terzo layout */
 
 /* quarto layout identico al secondo */
@@ -227,6 +241,7 @@ header div .row {
 }
 
 /* quinto layout */
+
 .background-grey2 {
     height: 900px;
     background-color:#d3d3d3;
